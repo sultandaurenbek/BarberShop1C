@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="59791675-b80f-4093-8848-458d4f9cd661">
+		<Name>ВыплатаЗарплаты</Name>
+		<Code>00002</Code>
+		<Description>Выплата зарплаты</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="90622272-38d0-4e5c-a364-0c12608d9b8c">
+		<Name>ОплатаОтКлиента</Name>
+		<Code>00001</Code>
+		<Description>Оплата от клиента</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
